@@ -28,4 +28,6 @@ I recreated the Logical Architectural Diagram in Lucid Charts
 
 ![Image of Logical Architectural Diagram](assets/Logical-Arch-Design.PNG)
 
+### Shared Lucid Link to document with both Logial and Conceptual Cruddur designs:
+
 <a href="https://lucid.app/lucidchart/efe7fdc0-01b8-447e-93ba-d717e45fe719/edit?viewport_loc=-3692%2C-442%2C3328%2C1548%2C0_0&invitationId=inv_30790980-f079-4b21-9a08-10a9e5355285" target="_blank">Link to shared Lucid Architectural and Concept Diagrams in one Lucid Document</a>
