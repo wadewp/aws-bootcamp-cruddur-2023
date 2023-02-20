@@ -16,6 +16,11 @@ I created one budget using the AWS console (10.00) and another $1 budget using G
 
 ![Image of the Budget Alarm I created](assets/budget-alarm.PNG)
 
+### Recreate Conceptual Architectural Design
+
+I recreated the Conceputal Architectural Diagram in Lucid Charts
+
+![Image of Conceptual Architectural Diagram](assets/Conceptual-Diagram.PNG)
 
 ### Recreate Logical Architectural Design
 
