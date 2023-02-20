@@ -8,6 +8,9 @@ I installed the AWS CLI using Gitpod. gitpod.yml is located in Main: [The yml fi
 
 ### Create a Billing Alarm
 
+I created a billing alarm in Gitpod 
+
+[Link to JSON with which billing alarm was configured](https://github.com/wadewp/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json)
 
 
 ### Create a Budget
